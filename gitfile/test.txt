@@ -1,2 +1,2 @@
-this is my new file
-use git demo test
+this is a git test
+hehe
